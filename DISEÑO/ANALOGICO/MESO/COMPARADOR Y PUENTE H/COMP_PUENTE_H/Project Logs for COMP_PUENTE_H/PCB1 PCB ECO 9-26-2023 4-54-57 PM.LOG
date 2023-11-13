@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=VH Pin=12-2
+Removed Pin From Net: NetName=NetR3_1 Pin=R10-1
+Removed Pin From Net: NetName=VL Pin=R10-2
+Removed Pin From Net: NetName=NetR6_1 Pin=R11-1
+Removed Member From Class: ClassName=Sheet1 Member=12
+Change Component Footprint: Designator=R10 Old Footprint=RESC2013X50X35ML15T15 New Footprint=RESC3216X60X45ML15T20
+Change Component Footprint: Designator=R11 Old Footprint=RESC2013X50X35ML15T15 New Footprint=RESC3216X60X45ML15T20
+Change Component Comment : Designator=R10 Old Comment=Resistor 10k +/-1% 0805 125 mW New Comment=Resistor 100k +/-1% 1206 250 mW
+Change Component Comment : Designator=R11 Old Comment=Resistor 10k +/-1% 0805 125 mW New Comment=Resistor 100k +/-1% 1206 250 mW
+Change Managed Component Library Link : Designator=R10 Old VaultGUID=44B04080-3737-4DA0-B993-7B3E7A2F56EB New VaultGUID=44B04080-3737-4DA0-B993-7B3E7A2F56EB Old ItemGUID=6E1CC4A2-4C94-4FC2-A96D-A59096A2064E New ItemGUID=921A7C44-04AF-4CEE-AB97-A19F586D4224 Old RevisionGUID=2E766E70-E4FD-4EAE-A0F1-F81718BFF1C4 New RevisionGUID=C93EDB23-4964-415E-AF0D-491B3175066E
+Change Managed Component Library Link : Designator=R11 Old VaultGUID=44B04080-3737-4DA0-B993-7B3E7A2F56EB New VaultGUID=44B04080-3737-4DA0-B993-7B3E7A2F56EB Old ItemGUID=6E1CC4A2-4C94-4FC2-A96D-A59096A2064E New ItemGUID=921A7C44-04AF-4CEE-AB97-A19F586D4224 Old RevisionGUID=2E766E70-E4FD-4EAE-A0F1-F81718BFF1C4 New RevisionGUID=C93EDB23-4964-415E-AF0D-491B3175066E
+Change component parameters: Designator = "R10" ("R10"); Footprint = "RESC2013X50X35ML15T15"; UniqueID = "\BBLHDBIT" ("\BBLHDBIT")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "250mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "200V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "RESC2013X50X35ML15T15"; UniqueID = "\UMECRNNI" ("\UMECRNNI")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "250mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "200V"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RESC3216X60X45ML15T20)
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "200V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VL Pin=R10-1
+Added Pin To Net: NetName=NetR3_1 Pin=R10-2
+Added Pin To Net: NetName=NetR6_1 Pin=R11-2
+Added Pin To Net: NetName=VH Pin=R12-1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=R12-2
+Added Net: Name=NetR11_1
+Added Member To Class: ClassName=Sheet1 Member=Component R12 Resistor 100k +/-1% 1206 250 mW

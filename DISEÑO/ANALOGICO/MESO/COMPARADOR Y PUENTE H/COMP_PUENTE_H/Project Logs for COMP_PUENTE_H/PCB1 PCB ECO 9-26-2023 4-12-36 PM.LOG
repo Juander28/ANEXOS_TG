@@ -1,0 +1,57 @@
+Added Component: Designator=COIL(MOLX-22-27-2021_V)
+Added Component: Designator=COM(MOLX-22-27-2021_V)
+Added Component: Designator=N1(INF-PG-SOT23_M)
+Added Component: Designator=N2(INF-PG-SOT23_M)
+Added Component: Designator=N3(INF-PG-SOT23_M)
+Added Component: Designator=N4(INF-PG-SOT23_M)
+Added Component: Designator=P1(INF-PG-SOT23_N)
+Added Component: Designator=P2(INF-PG-SOT23_N)
+Added Component: Designator=PH(MOLX-22-27-2021_V)
+Added Component: Designator=PIN(MOLX-22-27-2031_V)
+Added Component: Designator=U1(D0008A_L)
+Add Pin To Net: Unknown Pin: Pin COIL-1
+Add Pin To Net: Unknown Pin: Pin COIL-2
+Add Pin To Net: Unknown Pin: Pin COM-1
+Add Pin To Net: Unknown Pin: Pin COM-2
+Add Pin To Net: Unknown Pin: Pin N1-1
+Add Pin To Net: Unknown Pin: Pin N1-2
+Add Pin To Net: Unknown Pin: Pin N1-3
+Add Pin To Net: Unknown Pin: Pin N2-1
+Add Pin To Net: Unknown Pin: Pin N2-2
+Add Pin To Net: Unknown Pin: Pin N2-3
+Add Pin To Net: Unknown Pin: Pin N3-1
+Add Pin To Net: Unknown Pin: Pin N3-2
+Add Pin To Net: Unknown Pin: Pin N3-3
+Add Pin To Net: Unknown Pin: Pin N4-1
+Add Pin To Net: Unknown Pin: Pin N4-2
+Add Pin To Net: Unknown Pin: Pin N4-3
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Add Pin To Net: Unknown Pin: Pin P1-3
+Add Pin To Net: Unknown Pin: Pin P2-1
+Add Pin To Net: Unknown Pin: Pin P2-2
+Add Pin To Net: Unknown Pin: Pin P2-3
+Add Pin To Net: Unknown Pin: Pin PH-1
+Add Pin To Net: Unknown Pin: Pin PH-2
+Add Pin To Net: Unknown Pin: Pin PIN-1
+Add Pin To Net: Unknown Pin: Pin PIN-2
+Add Pin To Net: Unknown Pin: Pin PIN-3
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Class Member: Failed to add class member : Component COIL 22-27-2021
+Add Class Member: Failed to add class member : Component COM 22-27-2021
+Add Class Member: Failed to add class member : Component N1 2N7002
+Add Class Member: Failed to add class member : Component N2 2N7002
+Add Class Member: Failed to add class member : Component N3 2N7002
+Add Class Member: Failed to add class member : Component N4 2N7002
+Add Class Member: Failed to add class member : Component P1 BSS84P
+Add Class Member: Failed to add class member : Component P2 BSS84P
+Add Class Member: Failed to add class member : Component PH 22-27-2021
+Add Class Member: Failed to add class member : Component PIN 22-27-2031
+Add Class Member: Failed to add class member : Component U1 LM393M
