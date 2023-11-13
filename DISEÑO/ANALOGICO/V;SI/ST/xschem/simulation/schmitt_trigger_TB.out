@@ -1,0 +1,60 @@
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/juan/documents/projects/st/xschem/schmitt_trigger_tb.sch
+
+Warning: Model issue on line 2663 :
+  .model sky130_fd_pr__diode_pw2nd_11v0 d level=3.0 tlevc=1.0 area=1.0e+12 ...
+unrecognized parameter (vb) - ignored
+unrecognized parameter (gap1) - ignored
+unrecognized parameter (gap2) - ignored
+unrecognized parameter (xw) - ignored
+
+Warning: Model issue on line 2681 :
+  .model sky130_fd_pr__diode_pd2nw_11v0 d level=3.0 tlevc=1.0 area=1.0e+12 ...
+unrecognized parameter (vb) - ignored
+unrecognized parameter (gap1) - ignored
+unrecognized parameter (gap2) - ignored
+unrecognized parameter (xw) - ignored
+
+binary raw file "/home/juan/Documents/PROJECTS/ST/xschem/simulation/schmitt_trigger_TB.raw"
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Warning: IKK too small - model effect disabled!
+Warning: IKK too small - model effect disabled!
+No. of Data Columns : 35  
+
+Initial Transient Solution
+--------------------------
+
+Node                                   Voltage
+----                                   -------
+in                                           0
+net1                                         5
+x1.net1                                      5
+x1.net2                                      5
+x1.net3                                4.10508
+out                                1.16018e-08
+x1.net5                                      5
+x1.net4                            2.55262e-09
+vin#branch                         -3.7948e-11
+vclk#branch                                  0
+
+
+No. of Data Rows : 930
+
+Total analysis time (seconds) = 0.02
+
+Total elapsed time (seconds) = 4.057 
+
+Total DRAM available = 15382.445 MB.
+DRAM currently available = 7796.875 MB.
+Maximum ngspice program size =  155.660 MB.
+Current ngspice program size =  139.434 MB.
+
+Shared ngspice pages =   10.625 MB.
+Text (code) pages =    5.496 MB.
+Stack = 0 bytes.
+Library pages =  136.965 MB.
+
