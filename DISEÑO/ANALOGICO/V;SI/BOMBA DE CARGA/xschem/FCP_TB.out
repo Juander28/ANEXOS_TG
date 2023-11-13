@@ -1,0 +1,189 @@
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/juan/documents/projects/fcp_2.0/xschem/fcp_tb.sch
+
+Warning: Model issue on line 2633 :
+  .model sky130_fd_pr__diode_pd2nw_05v5_hvt d level=3.0 tlevc=1.0 area=1.0 ...
+unrecognized parameter (vb) - ignored
+unrecognized parameter (gap1) - ignored
+unrecognized parameter (gap2) - ignored
+unrecognized parameter (xw) - ignored
+binary raw file "/home/juan/Documents/PROJECTS/FCP_2.0/xschem/simulation/FCP_TB.raw"
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Warning: IKK too small - model effect disabled!
+No. of Data Columns : 943  
+Note: Starting dynamic gmin stepping
+Trying gmin =   1.0000E-03 Note: One successful gmin step
+Trying gmin =   1.0000E-04 Note: One successful gmin step
+Trying gmin =   1.0000E-05 Note: One successful gmin step
+Trying gmin =   1.0000E-06 Note: One successful gmin step
+Trying gmin =   1.0000E-07 Note: One successful gmin step
+Trying gmin =   1.0000E-08 Note: One successful gmin step
+Trying gmin =   1.0000E-09 Note: One successful gmin step
+Trying gmin =   1.0000E-10 Note: One successful gmin step
+Trying gmin =   1.0000E-11 Note: One successful gmin step
+Trying gmin =   1.0000E-12 Note: One successful gmin step
+Trying gmin =   1.0000E-12 Note: One successful gmin step
+Warning: Dynamic gmin stepping failed
+Note: Starting true gmin stepping
+Trying gmin =   1.0000E-03 Note: One successful gmin step
+Trying gmin =   1.0000E-04 Note: One successful gmin step
+Trying gmin =   1.0000E-05 Note: One successful gmin step
+Trying gmin =   1.0000E-06 Note: One successful gmin step
+Trying gmin =   1.0000E-07 Note: One successful gmin step
+Trying gmin =   1.0000E-08 Note: One successful gmin step
+Trying gmin =   1.0000E-09 Note: One successful gmin step
+Trying gmin =   1.0000E-10 Note: One successful gmin step
+Trying gmin =   1.0000E-11 Note: One successful gmin step
+Trying gmin =   1.0000E-12 Warning: Further gmin increment
+Trying gmin =   5.6234E-12 Note: One successful gmin step
+Trying gmin =   2.3714E-12 Warning: Further gmin increment
+Trying gmin =   4.5316E-12 Note: One successful gmin step
+Trying gmin =   3.2781E-12 Note: One successful gmin step
+Trying gmin =   2.0169E-12 Note: One successful gmin step
+Trying gmin =   1.0000E-12 Warning: Further gmin increment
+Trying gmin =   1.6924E-12 Note: One successful gmin step
+Trying gmin =   1.3009E-12 Warning: Further gmin increment
+Trying gmin =   1.5847E-12 Note: One successful gmin step
+Trying gmin =   1.4358E-12 Note: One successful gmin step
+Trying gmin =   1.2383E-12 Warning: Further gmin increment
+Trying gmin =   1.3837E-12 Note: One successful gmin step
+Trying gmin =   1.3090E-12 Warning: Further gmin increment
+Trying gmin =   1.3646E-12 Note: One successful gmin step
+Trying gmin =   1.3458E-12 Warning: Further gmin increment
+Trying gmin =   1.3599E-12 Warning: Further gmin increment
+Trying gmin =   1.3634E-12 Warning: Further gmin increment
+Trying gmin =   1.3643E-12 Note: One successful gmin step
+Trying gmin =   1.3639E-12 Warning: Further gmin increment
+Trying gmin =   1.3642E-12 Note: One successful gmin step
+Trying gmin =   1.3640E-12 Warning: Further gmin increment
+Trying gmin =   1.3642E-12 Note: One successful gmin step
+Trying gmin =   1.3641E-12 Note: One successful gmin step
+Trying gmin =   1.3640E-12 Warning: Further gmin increment
+Trying gmin =   1.3641E-12 Note: One successful gmin step
+Trying gmin =   1.3641E-12 Note: One successful gmin step
+Trying gmin =   1.3640E-12 Warning: Last gmin step failed
+Warning: True gmin stepping failed
+Note: Starting source stepping
+Supplies reduced to   0.0000% Note: One successful source step
+Supplies reduced to   0.1000% Note: One successful source step
+Supplies reduced to   0.2000% Note: One successful source step
+Supplies reduced to   0.3500% Note: One successful source step
+Supplies reduced to   0.5750% Note: One successful source step
+Supplies reduced to   0.9125% Note: One successful source step
+Supplies reduced to   1.4188% Note: One successful source step
+Supplies reduced to   2.1781% Note: One successful source step
+Supplies reduced to   3.3172% Note: One successful source step
+Supplies reduced to   5.0258% Note: One successful source step
+Supplies reduced to   7.5887% Note: One successful source step
+Supplies reduced to  11.4330% Note: One successful source step
+Supplies reduced to  17.1995% Note: One successful source step
+Supplies reduced to  25.8493% Supplies reduced to  17.1995% Note: One successful source step
+Supplies reduced to  18.1995% Note: One successful source step
+Supplies reduced to  19.6995% Note: One successful source step
+Supplies reduced to  21.9495% Note: One successful source step
+Supplies reduced to  23.0745% Note: One successful source step
+Supplies reduced to  24.1995% Note: One successful source step
+Supplies reduced to  25.8870% Supplies reduced to  24.1995% Note: One successful source step
+Supplies reduced to  24.2839% Note: One successful source step
+Supplies reduced to  24.3261% Note: One successful source step
+Supplies reduced to  24.3472% Note: One successful source step
+Supplies reduced to  24.3577% Note: One successful source step
+Supplies reduced to  24.3630% Note: One successful source step
+Supplies reduced to  24.3656% Note: One successful source step
+Supplies reduced to  24.3669% Note: One successful source step
+Supplies reduced to  24.3683% Note: One successful source step
+Supplies reduced to  24.3702% Note: One successful source step
+Supplies reduced to  24.3722% Supplies reduced to  24.3702% Warning: source stepping failed
+Note: Transient op started
+Note: Transient op finished successfully
+
+Initial Transient Solution
+--------------------------
+
+Node                                   Voltage
+----                                   -------
+net2                                         0
+net1                                       1.8
+out                                 7.5831e-05
+xc2.a                              1.80381e-12
+xc2.b1                             4.10427e-17
+d1                                  0.00177163
+x1.sky130_fd_sc_hvl__inv_16_8/vpb       0.0272626
+net3                                0.00177163
+x1.sky130_fd_sc_hvl__inv_16_3/vpb         1.24355
+x1.sky130_fd_sc_hvl__inv_16_4/vpb        0.691851
+x1.sky130_fd_sc_hvl__inv_16_7/vpb        0.507724
+x1.sky130_fd_sc_hvl__inv_16_7/a     -0.00252055
+x1.sky130_fd_sc_hvl__inv_16_0/y        0.506748
+x1.sky130_fd_sc_hvl__inv_16_1/y         1.80002
+x1.sky130_fd_sc_hvl__inv_16_4/a         1.24314
+x1.sky130_fd_sc_hvl__inv_16_3/y    -5.75915e-05
+x1.sky130_fd_sc_hvl__inv_16_8/a        0.136863
+x1.sky130_fd_sc_hvl__inv_16_5/y       0.0259978
+x1.sky130_fd_sc_hvl__inv_16_8/y       0.0302188
+x1.sky130_fd_sc_hvl__inv_16_6/y      0.00165067
+x1.xcapa_0.xsky130_fd_pr__cap_mim_m3_1_4ryhlg_0.x0.a        0.506748
+x1.xcapa_0.xsky130_fd_pr__cap_mim_m3_1_4ryhlg_0.x0.b1        0.506748
+x1.xcapa_0.xsky130_fd_pr__cap_mim_m3_1_4ryhlg_0.x1.a        0.506748
+x1.xcapa_0.xsky130_fd_pr__cap_mim_m3_1_4ryhlg_0.x1.b1        0.506748
+x1.xcapa_0.xsky130_fd_pr__cap_mim_m3_2_l46jlg_0.x0.a        0.507724
+x1.xcapa_0.xsky130_fd_pr__cap_mim_m3_2_l46jlg_0.x0.b1        0.507724
+x1.xcapa_0.xsky130_fd_pr__cap_mim_m3_2_l46jlg_0.x1.a        0.507724
+x1.xcapa_0.xsky130_fd_pr__cap_mim_m3_2_l46jlg_0.x1.b1        0.507724
+x1.xcapa_1.xsky130_fd_pr__cap_mim_m3_1_4ryhlg_0.x0.a         1.80002
+x1.xcapa_1.xsky130_fd_pr__cap_mim_m3_1_4ryhlg_0.x0.b1         1.80002
+x1.xcapa_1.xsky130_fd_pr__cap_mim_m3_1_4ryhlg_0.x1.a         1.80002
+x1.xcapa_1.xsky130_fd_pr__cap_mim_m3_1_4ryhlg_0.x1.b1         1.80002
+x1.xcapa_1.xsky130_fd_pr__cap_mim_m3_2_l46jlg_0.x0.a         1.24355
+x1.xcapa_1.xsky130_fd_pr__cap_mim_m3_2_l46jlg_0.x0.b1         1.24355
+x1.xcapa_1.xsky130_fd_pr__cap_mim_m3_2_l46jlg_0.x1.a         1.24355
+x1.xcapa_1.xsky130_fd_pr__cap_mim_m3_2_l46jlg_0.x1.b1         1.24355
+x1.xcapa_2.xsky130_fd_pr__cap_mim_m3_1_4ryhlg_0.x0.a    -5.75853e-05
+x1.xcapa_2.xsky130_fd_pr__cap_mim_m3_1_4ryhlg_0.x0.b1    -5.75914e-05
+x1.xcapa_2.xsky130_fd_pr__cap_mim_m3_1_4ryhlg_0.x1.a    -5.75853e-05
+x1.xcapa_2.xsky130_fd_pr__cap_mim_m3_1_4ryhlg_0.x1.b1    -5.75914e-05
+x1.xcapa_2.xsky130_fd_pr__cap_mim_m3_2_l46jlg_0.x0.a        0.691851
+x1.xcapa_2.xsky130_fd_pr__cap_mim_m3_2_l46jlg_0.x0.b1        0.691851
+x1.xcapa_2.xsky130_fd_pr__cap_mim_m3_2_l46jlg_0.x1.a        0.691851
+x1.xcapa_2.xsky130_fd_pr__cap_mim_m3_2_l46jlg_0.x1.b1        0.691851
+x1.xcapa_3.xsky130_fd_pr__cap_mim_m3_1_4ryhlg_0.x0.a      0.00165067
+x1.xcapa_3.xsky130_fd_pr__cap_mim_m3_1_4ryhlg_0.x0.b1      0.00165067
+x1.xcapa_3.xsky130_fd_pr__cap_mim_m3_1_4ryhlg_0.x1.a      0.00165067
+x1.xcapa_3.xsky130_fd_pr__cap_mim_m3_1_4ryhlg_0.x1.b1      0.00165067
+x1.xcapa_3.xsky130_fd_pr__cap_mim_m3_2_l46jlg_0.x0.a      0.00177163
+x1.xcapa_3.xsky130_fd_pr__cap_mim_m3_2_l46jlg_0.x0.b1      0.00177163
+x1.xcapa_3.xsky130_fd_pr__cap_mim_m3_2_l46jlg_0.x1.a      0.00177163
+x1.xcapa_3.xsky130_fd_pr__cap_mim_m3_2_l46jlg_0.x1.b1      0.00177163
+x1.xcapa_4.xsky130_fd_pr__cap_mim_m3_1_4ryhlg_0.x0.a       0.0259978
+x1.xcapa_4.xsky130_fd_pr__cap_mim_m3_1_4ryhlg_0.x0.b1       0.0259978
+x1.xcapa_4.xsky130_fd_pr__cap_mim_m3_1_4ryhlg_0.x1.a       0.0259978
+x1.xcapa_4.xsky130_fd_pr__cap_mim_m3_1_4ryhlg_0.x1.b1       0.0259978
+x1.xcapa_4.xsky130_fd_pr__cap_mim_m3_2_l46jlg_0.x0.a       0.0272626
+x1.xcapa_4.xsky130_fd_pr__cap_mim_m3_2_l46jlg_0.x0.b1       0.0272626
+x1.xcapa_4.xsky130_fd_pr__cap_mim_m3_2_l46jlg_0.x1.a       0.0272626
+x1.xcapa_4.xsky130_fd_pr__cap_mim_m3_2_l46jlg_0.x1.b1       0.0272626
+vout#branch                        1.91902e-10
+vin#branch                        -4.60488e-07
+vclk#branch                       -5.16102e-07
+
+
+No. of Data Rows : 3703587
+
+Total analysis time (seconds) = 3646.4
+
+Total elapsed time (seconds) = 3657.679 
+
+Total DRAM available = 15398.438 MB.
+DRAM currently available =  144.680 MB.
+Maximum ngspice program size =  681.969 MB.
+Current ngspice program size =  664.430 MB.
+
+Shared ngspice pages =    8.902 MB.
+Text (code) pages =    5.453 MB.
+Stack = 0 bytes.
+Library pages =  663.645 MB.
+
